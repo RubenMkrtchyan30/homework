@@ -7,4 +7,7 @@ print('v =',gund.vol(2))
 print('a =',gund.area(2))
 
 import equal
-print(equal.numbers(8))
+print('equal =',equal.numbers(8))
+
+import rad_deg as r
+print('convert =', r.convert(2))
